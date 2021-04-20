@@ -1,0 +1,11 @@
+requests
+discord
+colorama
+threading
+itertools
+ctypes
+urllib
+string
+random
+base64
+keyboard
